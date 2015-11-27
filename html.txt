@@ -1,0 +1,2 @@
+.//backup/git/lab2/index1.html
+.//git/lab2/index1.html
